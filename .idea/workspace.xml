@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ea6d1a-ca69-4a74-9d01-a8ad40b00df4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes-in-java-class-properties.iml" afterPath="$PROJECT_DIR$/classes-in-java-class-properties.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Planet.java" afterPath="$PROJECT_DIR$/src/main/java/Planet.java" />
     </list>
     <ignored path="classes-in-java-class-properties.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="96" lean-forward="false" selection-start-line="56" selection-start-column="96" selection-end-line="56" selection-end-column="96" />
+            <state relative-caret-position="108">
+              <caret line="39" column="96" lean-forward="false" selection-start-line="39" selection-start-column="96" selection-end-line="39" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -878,14 +875,11 @@
       <workItem from="1487593950064" duration="1461000" />
       <workItem from="1487595858609" duration="14000" />
       <workItem from="1487596299595" duration="903000" />
-      <workItem from="1488561185871" duration="2111000" />
+      <workItem from="1488561185871" duration="2402000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainTest_mainMethodShouldPrintPlanet2AfterSettingPropertiesTest - 2017.02.20 at 08h 27m 11s.xml">
-      <configuration name="MainTest.mainMethodShouldPrintPlanet2AfterSettingPropertiesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Run_all_tests_(All_in_classes-in-java-class-properties) - 2017.02.20 at 07h 55m 47s.xml">
       <configuration name="Run all tests (All in classes-in-java-class-properties)" configurationId="JUnit" />
     </history-entry>
@@ -913,9 +907,12 @@
     <history-entry file="Run_all_tests_(All_in_classes-in-java-class-properties) - 2017.03.03 at 12h 48m 49s.xml">
       <configuration name="Run all tests (All in classes-in-java-class-properties)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Run_all_tests_(All_in_classes-in-java-class-properties) - 2017.03.03 at 13h 14m 00s.xml">
+      <configuration name="Run all tests (All in classes-in-java-class-properties)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22468000" />
+    <option name="totallyTimeSpent" value="22759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1279,8 +1276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="96" lean-forward="false" selection-start-line="56" selection-start-column="96" selection-end-line="56" selection-end-column="96" />
+        <state relative-caret-position="108">
+          <caret line="39" column="96" lean-forward="false" selection-start-line="39" selection-start-column="96" selection-end-line="39" selection-end-column="96" />
           <folding />
         </state>
       </provider>

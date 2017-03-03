@@ -37,8 +37,8 @@ public class Main {
             changed. This change impacts only that one property on that one
             instance of the object.
          */
-        System.out.println("Name: "+planet2.getName()+", Distance from Sun: "+planet2.getDistanceFromSun()+
-                " AU, Satellites: "+planet2.getSatellites()+" moon(s), Supports Life: "+planet2.isSupportsLife());
+        System.out.println("Name: "+planet2.name+", Distance from Sun: "+planet2.distanceFromSun+
+                " AU, Satellites: "+planet2.satellites+" moon(s), Supports Life: "+planet2.supportsLife);
         // todo: change a single property on your planet1 instance
             planet1.satellites=26;
         // todo: change a different property on your planet2 instance
